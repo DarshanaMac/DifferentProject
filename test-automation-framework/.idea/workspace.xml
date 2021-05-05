@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6261e488-37d2-4241-bb13-f9f2737b0ab1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Testng.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/executor/qa/uiautomation/pages/web/to_do_Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/executor/qa/uiautomation/pages/web/to_do_Page.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com.executor.qa.automation.uiautomation.TS_FuncOfToDos.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com.executor.qa.automation.uiautomation.TS_FuncOfToDos.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/executor/qa/automation/uiautomation/TS_FuncOfToDos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/executor/qa/automation/uiautomation/TS_FuncOfToDos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/sampletestautomationframework.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com.executor.qa.automation.uiautomation.TS_FuncOfToDos.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com.executor.qa.automation.uiautomation.TS_FuncOfToDos.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/executor/qa/uiautomation/pages/web/to_do_Page.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/executor/qa/uiautomation/pages/web/to_do_Page.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/sampletestautomationframework.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/executor/qa/automation/uiautomation/TS_FuncOfToDos.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/executor/qa/automation/uiautomation/TS_FuncOfToDos.class" afterDir="false" />
-    </list>
+    <list default="true" id="6261e488-37d2-4241-bb13-f9f2737b0ab1" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
