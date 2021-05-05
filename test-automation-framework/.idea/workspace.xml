@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6261e488-37d2-4241-bb13-f9f2737b0ab1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/executor/qa/uiautomation/pages/web/to_do_Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/executor/qa/uiautomation/pages/web/to_do_Page.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com.executor.qa.automation.uiautomation.TS_FuncOfToDos.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com.executor.qa.automation.uiautomation.TS_FuncOfToDos.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/executor/qa/automation/uiautomation/TS_FuncOfToDos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/executor/qa/automation/uiautomation/TS_FuncOfToDos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/sampletestautomationframework.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com.executor.qa.automation.uiautomation.TS_FuncOfToDos.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com.executor.qa.automation.uiautomation.TS_FuncOfToDos.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/executor/qa/uiautomation/pages/web/to_do_Page.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/executor/qa/uiautomation/pages/web/to_do_Page.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/sampletestautomationframework.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/executor/qa/automation/uiautomation/TS_FuncOfToDos.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/executor/qa/automation/uiautomation/TS_FuncOfToDos.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jYfg6Jfncb0OKUF74IOA1JZa25" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.executor.qa" />
+      <recent name="com.executor.qa.uiautomation.uiautomation" />
+      <recent name="com.executor.qa.automation.uiautomation" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\New folder\test-automation-framework" />
+      <recent name="D:\New folder\test-automation-framework\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.TS_FuncOfToDos">
+    <configuration name="TS_FuncOfToDos" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="sampletestautomationframework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.executor.qa.automation.uiautomation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.executor.qa.automation.uiautomation" />
+      <option name="MAIN_CLASS_NAME" value="com.executor.qa.automation.uiautomation.TS_FuncOfToDos" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TS_FuncOfToDos.verifyActiveToDosItems" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="sampletestautomationframework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.executor.qa.automation.uiautomation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.executor.qa.automation.uiautomation" />
+      <option name="MAIN_CLASS_NAME" value="com.executor.qa.automation.uiautomation.TS_FuncOfToDos" />
+      <option name="METHOD_NAME" value="verifyActiveToDosItems" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TS_FuncOfToDos.verifyClearCompletedTodos" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="sampletestautomationframework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.executor.qa.automation.uiautomation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.executor.qa.automation.uiautomation" />
+      <option name="MAIN_CLASS_NAME" value="com.executor.qa.automation.uiautomation.TS_FuncOfToDos" />
+      <option name="METHOD_NAME" value="verifyClearCompletedTodos" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TS_FuncOfToDos.verifyCompletedTodos" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="sampletestautomationframework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.executor.qa.automation.uiautomation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.executor.qa.automation.uiautomation" />
+      <option name="MAIN_CLASS_NAME" value="com.executor.qa.automation.uiautomation.TS_FuncOfToDos" />
+      <option name="METHOD_NAME" value="verifyCompletedTodos" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TS_FuncOfToDos.verifyFilterActiveTodos" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="sampletestautomationframework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.executor.qa.automation.uiautomation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.executor.qa.automation.uiautomation" />
+      <option name="MAIN_CLASS_NAME" value="com.executor.qa.automation.uiautomation.TS_FuncOfToDos" />
+      <option name="METHOD_NAME" value="verifyFilterActiveTodos" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TS_FuncOfToDos" />
+        <item itemvalue="TestNG.TS_FuncOfToDos.verifyCompletedTodos" />
+        <item itemvalue="TestNG.TS_FuncOfToDos.verifyClearCompletedTodos" />
+        <item itemvalue="TestNG.TS_FuncOfToDos.verifyFilterActiveTodos" />
+        <item itemvalue="TestNG.TS_FuncOfToDos.verifyActiveToDosItems" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6261e488-37d2-4241-bb13-f9f2737b0ab1" name="Default Changelist" comment="" />
+      <created>1603986053380</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603986053380</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="396" y="45" key="#xdebugger.evaluate" timestamp="1620040840425">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="396" y="45" key="#xdebugger.evaluate/0.0.1280.680@0.0.1280.680" timestamp="1620040840425" />
+    <state width="1237" height="164" key="GridCell.Tab.0.bottom" timestamp="1620229114281">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="164" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1620229114281" />
+    <state width="1237" height="164" key="GridCell.Tab.0.center" timestamp="1620229114281">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="164" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1620229114281" />
+    <state width="1237" height="164" key="GridCell.Tab.0.left" timestamp="1620229114280">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="164" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1620229114280" />
+    <state width="1237" height="164" key="GridCell.Tab.0.right" timestamp="1620229114281">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="164" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1620229114281" />
+    <state width="1237" height="147" key="GridCell.Tab.1.bottom" timestamp="1620133955276">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="147" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1620133955276" />
+    <state width="1237" height="147" key="GridCell.Tab.1.center" timestamp="1620133955276">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="147" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1620133955276" />
+    <state width="1237" height="147" key="GridCell.Tab.1.left" timestamp="1620133955276">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="147" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1620133955276" />
+    <state width="1237" height="147" key="GridCell.Tab.1.right" timestamp="1620133955276">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="147" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1620133955276" />
+    <state x="337" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1620096322138">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1620096322138" />
+    <state x="210" y="78" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1620023674403">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="210" y="78" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1280.680@0.0.1280.680" timestamp="1620023674403" />
+    <state x="297" y="151" key="run.anything.popup" timestamp="1620041440895">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1620041440895" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1619967956385">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1619967956385" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/executor/qa/uiautomation/utils/CommandBase.java</url>
+          <line>76</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="TestNG">
+        <watch expression="dataRow" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/adl_qa_automation_framework$TS_FuncOfToDos.ic" NAME="TS_FuncOfToDos Coverage Results" MODIFIED="1620052602045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.executor.qa.automation.uiautomation.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/adl_qa_automation_framework$DemoServiceTest.ic" NAME="DemoServiceTest Coverage Results" MODIFIED="1604218511891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.executor.qa.serviceautomation.*</FILTER>
+    </SUITE>
+  </component>
+</project>

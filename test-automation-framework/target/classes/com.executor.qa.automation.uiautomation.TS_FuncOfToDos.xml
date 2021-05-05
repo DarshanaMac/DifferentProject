@@ -1,0 +1,25 @@
+<testData>
+    <suite>
+        <test name="createToDos">
+            <property name="ToDoLabelName">Kane</property>
+        </test>
+
+        <test name="MarkAsDone">
+            <property name="ToDoLabelName">Jay</property>
+        </test>
+
+                <test name="verifyCompletedToDosItems">-->
+                    <property name="ToDoLabelName">Azure</property>-->
+                </test>
+
+        <test name="verifyFilterActiveTodos">
+            <property name="ToDoLabelName">MultiUsers</property>
+        </test>
+
+        <test name="verifyClearCompletedTodos">
+            <property name="ToDoLabelName">Poul</property>
+        </test>
+
+
+    </suite>
+</testData>
